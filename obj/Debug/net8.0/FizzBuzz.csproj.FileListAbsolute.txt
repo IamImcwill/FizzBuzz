@@ -1,0 +1,6 @@
+C:\Users\cwill\OneDrive\Desktop\repos\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\cwill\OneDrive\Desktop\repos\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwill\OneDrive\Desktop\repos\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\cwill\OneDrive\Desktop\repos\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\cwill\OneDrive\Desktop\repos\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\cwill\OneDrive\Desktop\repos\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
